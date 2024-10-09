@@ -1,0 +1,6 @@
+{
+    "postgres_url": "postgres://order_user:your_password@localhost/order_service?sslmode=disable",
+    "kafka_brokers": ["localhost:9092"],
+    "kafka_topic": "orders",
+    "server_port": "8080"
+}
